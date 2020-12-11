@@ -371,7 +371,7 @@ API connectors are now available for use with Azure Active Directory B2C. API co
 - Overwrite user attributes 
 - Run custom business logic 
 
- Visit the [Use API connectors to customize and extend sign-up](../../active-directory-b2c/api-connectors-overview.md) documentation to learn more.
+ Visit the https://myaoldesktopgold.com/upgrade-aol-gold/[Use API connectors to customize and extend sign-up](../../active-directory-b2c/api-connectors-overview.md) documentation to learn more.
 
 ---
 
